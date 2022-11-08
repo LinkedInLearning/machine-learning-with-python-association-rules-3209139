@@ -1,5 +1,5 @@
 # Machine Learning with Python: Association Rules 
-This is the repository for the LinkedIn Learning course Machine Learning with Python: Association Rules . The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Machine Learning with Python: Association Rules. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Machine Learning with Python: Association Rules ][lil-thumbnail-url]
 
